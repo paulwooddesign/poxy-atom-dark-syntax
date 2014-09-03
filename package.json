@@ -1,7 +1,7 @@
 {
   "name": "poxy-atom-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Default dark theme for syntax",
   "repository": "https://github.com/paulwooddesign/poxy-atom-dark-syntax",
   "license": "MIT",
