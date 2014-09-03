@@ -7,14 +7,5 @@
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {
-    "grunt": "~0.4.5"
-  },
-  "devDependencies": {
-    "grunt-release": "^0.7.0",
-    "grunt-bump": "0.0.15",
-    "load-grunt-tasks": "^0.6.0",
-    "grunt-contrib-clean": "^0.6.0"
   }
 }
